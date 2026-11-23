@@ -25,7 +25,10 @@ Here are some ideas to get you started:
 I'm an undergraduate from SDU.  
 AS a machine learning learner,I would rather rebuild a model than only call it.  
 
+## Interests
+Deep learning · World models · Large language models
+
 ## Now
 - I’m working on **CS336 A1**, currently at Tokenizer.  
 - Learning deep learning from Andrej Karpathy's **Neural Networks: Zero to Hero**
-- Following Li Mu's *Dive into Deep Learning* (D2L)
+- Following Li Mu's **Dive into Deep Learning** (D2L)
