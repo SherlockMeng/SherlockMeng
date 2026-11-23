@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </p>
 
 I'm an undergraduate from SDU.  
-AS a machine learning learner,I would rather rebuild a model than only call it.  
+As a machine learning learner,I would rather rebuild a model than only call it.  
 
 ## Interests
 Deep learning · World models · Large language models
