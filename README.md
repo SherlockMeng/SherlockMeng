@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 Hi!I'm Sherlock Meng.  
 
 I'm an undergraduate from SDU.  
-
 AS a machine learning learner,I would rather rebuild a model than only call it.  
 
-I’m working on CS336 A1, currently at Tokenizer.  
-
-I’m learning deep learning with Dive into Deep Learning by MuLi.  
+##Now
+-I’m working on CS336 A1, currently at Tokenizer.  
+-I’m learning deep learning with Dive into Deep Learning by MuLi.  
 
