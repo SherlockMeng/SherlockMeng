@@ -14,12 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi!I'm Sherlock Meng.  
+
+<p align="left">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=17&color=C98A4A&center=false&vCenter=true&width=420&height=50&repeat=false&pause=100000&lines=Hi%2C+I%27m+Sherlock+Meng."
+    alt="Hi, I'm Sherlock Meng."
+  />
+</p>
 
 I'm an undergraduate from SDU.  
 AS a machine learning learner,I would rather rebuild a model than only call it.  
 
 ## Now
-- I’m working on CS336 A1, currently at Tokenizer.  
+- I’m working on **CS336 A1**, currently at Tokenizer.  
 - Learning deep learning from Andrej Karpathy's **Neural Networks: Zero to Hero**
 - Following Li Mu's *Dive into Deep Learning* (D2L)
