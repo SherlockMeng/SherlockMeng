@@ -26,7 +26,7 @@ I'm an undergraduate from SDU.
 As a machine learning learner,I would rather rebuild a model than only call it.  
 
 ## Interests
-Deep learning · World models · Large language models
+Deep learning · Large language models · Multimodal agents · World models
 
 ## Now
 - I’m working on **CS336 A1**, currently at Tokenizer.  
